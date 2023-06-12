@@ -1,6 +1,6 @@
 ## Experiment Project - Handle Download and Read File
 
-This repo is experiment project for download file and read file (for this case CSV) and then read the data at file row by row and show to logcat. This project using **Work Manager** for handle async task.
+This repo is experiment project for download file and read file (for this case CSV) and then read the data at file row by row and show to logcat. This project using **Work Manager** for handle background task.
 
 Here I use content of csv file like below:
 ```
